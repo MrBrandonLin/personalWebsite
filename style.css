@@ -1,0 +1,40 @@
+
+/* Global styles */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+}
+
+/* Typography */
+
+
+/* Layout */
+
+
+/* Navigation */
+
+
+/* Sections */
+
+
+/* Projects */
+
+
+/* Footer */
+
+
+/* Responsive styles */
+
+@media (max-width: 768px) {
+
+}
